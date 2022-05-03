@@ -13,7 +13,7 @@
 - Currently learning about:
   - :slot_machine: Reinforcement Learning
   - :bulb: Theoretical Machine Learning 
-  - :squirrel: C++
+  - :seedling: C++
 <!-- - Living with my Beagle dog :dog2:!
 - Dream to travel: :jp:, :us:, :uk: and :ca:
  -->
