@@ -1,7 +1,7 @@
 ### Hi, everyone :wave:
 
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
-- :books: Recently I'm dealing with my graduate thesis: **Deep Neural Network for Solving Parial Differential Equations**!
+- :books: Recently I'm dealing with my undergraduate thesis: **Deep Neural Network for Solving Parial Differential Equations**!
 - :cn: I'm located in China right now!
 - :snake: A python enthusiast!
 - :coffee: A coffee lover: Ethiopia and Panama are the best choice!
