@@ -8,12 +8,13 @@
 - :mailbox: How to chat with me？ [gianting01@gmail.com]
 - :eyeglasses: Interested in:
   - :slot_machine: Machine Learning
-  - :watermelon: Bayesian Statistics
   - :computer: Scientific Computing
 - Currently learning about:
   - :slot_machine: Reinforcement Learning
   - :bulb: Theoretical Machine Learning 
   - :seedling: C++
+- Planned to learn:
+  - :watermelon: Bayesian Statistics
 <!-- - Living with my Beagle dog :dog2:!
 - Dream to travel: :jp:, :us:, :uk: and :ca:
  -->
