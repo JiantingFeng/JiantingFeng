@@ -4,7 +4,7 @@
 - :books: Recently I'm dealing with my graduate thesis: **Deep Neural Network for Solving Parial Differential Equations**!
 - :cn: I'm located in China right now!
 - :snake: A python enthusiast!
-- :coffee: A coffee lover: Ethiopia and Banama are the best choice!
+- :coffee: A coffee lover: Ethiopia and Panama are the best choice!
 - :mailbox: How to chat with me？ [gianting01@gmail.com]
 - :eyeglasses: Interested in:
   - :slot_machine: Machine Learning
@@ -14,4 +14,4 @@
   - :slot_machine: Reinforcement Learning
   - :bulb: Theoretical Machine Learning 
 - Living with my Beagle dog :dog2:!
-- Dream to travel: :jp: and :uk:
+- Dream to travel: :jp:, :us:, :uk: and :ca:
