@@ -11,8 +11,9 @@
   - :computer: Scientific Computing
 - Currently learning about:
   - :slot_machine: Reinforcement Learning
-<!--   - :bulb: Theoretical Machine Learning  -->
   - :seedling: C++
+<!--   - :bulb: Theoretical Machine Learning  -->
+
 - Planned to learn:
   - :watermelon: Bayesian Statistics
 <!-- - Living with my Beagle dog :dog2:!
