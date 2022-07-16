@@ -7,7 +7,7 @@
 - :mailbox: How to chat with me？ [gianting01@gmail.com]
 - :eyeglasses: Interested in:
   - :slot_machine: Machine Learning
-  - :computer: Scientific Computing
+  - :computer: Data Science
 - Currently learning about:
   - :slot_machine: Reinforcement Learning
   - :seedling: C++
