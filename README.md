@@ -9,9 +9,9 @@
 - :eyeglasses: Interested in:
   - :slot_machine: Machine Learning
   - :computer: Data Science
-- Currently learning about:
-  - :slot_machine: Reinforcement Learning
-  - :seedling: C++
+- Currently working on:
+  - :slot_machine: Machine Learning Theory
+  - :seedling: Build my personal website (coming soon!)
 <!--   - :bulb: Theoretical Machine Learning  -->
 
 - Planned to learn:
