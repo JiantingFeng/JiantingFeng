@@ -1,6 +1,7 @@
 ### Hi, everyone :wave:
 
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
+- :eyes: Actively looking for PhD, MPhil positions.
 - :cn: I'm located in China right now!
 - :snake: A python enthusiast!
 - :coffee: A coffee lover: Ethiopia and Panama are the best choice!
