@@ -10,7 +10,7 @@
   - :slot_machine: Machine Learning
   - :computer: Data Science
 - Currently working on:
-  - :seedling: Build my personal website [temporary url](https://jianting-homepage.vercel.app/)
+  - :seedling: Building my personal website [jiantingfeng.vip](jiantingfeng.vip)
 <!--   - :bulb: Theoretical Machine Learning  -->
 
 - Planned to learn:
