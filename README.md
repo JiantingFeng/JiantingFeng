@@ -1,4 +1,4 @@
-### Hi, everyone :wave:
+### Hi, everyone :wave: [Homepage](http://www.jiantingfeng.vip)
 
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
 - :eyes: Actively looking for a MPhil/PhD position.
@@ -10,7 +10,7 @@
   - :slot_machine: Machine Learning
   - :computer: Data Science
 - Currently working on:
-  - :seedling: Building my personal website [jiantingfeng.vip](http://www.jiantingfeng.vip)
+  - :seedling: Building my personal website 
 <!--   - :bulb: Theoretical Machine Learning  -->
 
 - Planned to learn:
