@@ -10,7 +10,7 @@
   - :slot_machine: Machine Learning
   - :computer: Data Science
 - Currently working on:
-  - :seedling: Building my personal website 
+  - :seedling: Searching for Good Ideas ^ ^
 <!--   - :bulb: Theoretical Machine Learning  -->
 
 - Planned to learn:
