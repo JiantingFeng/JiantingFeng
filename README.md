@@ -1,5 +1,5 @@
-### Hi, everyone :wave: [Homepage](http://www.jiantingfeng.vip)
-
+## Hi, there :wave:
+###  [Homepage](http://www.jiantingfeng.vip)
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
 - :eyes: Actively looking for a MPhil/PhD position.
 - :cn: I'm located in China right now!
