@@ -4,7 +4,7 @@
 - :eyes: Actively looking for a MPhil/PhD position.
 - :cn: I'm located in China right now!
 - :snake: A python enthusiast!
-- :coffee: A coffee lover: Ethiopia and Panama are the best choices!
+- :coffee: A part time brista: Ethiopia and Panama are the best choices!
 - :mailbox: How to chat with me？ [gianting01@gmail.com]
 - :eyeglasses: Interested in:
   - :slot_machine: Machine Learning
