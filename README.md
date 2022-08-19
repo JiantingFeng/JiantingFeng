@@ -9,10 +9,9 @@
 - :eyeglasses: Interested in:
   - :slot_machine: Machine Learning
   - :computer: Data Science
-- Currently working on:
-  - :seedling: Searching for interesting ideas and learning something new :)
+- Currently:
+  - :seedling: Preparing for notes (will be posted later)
 <!--   - :bulb: Theoretical Machine Learning  -->
-
 - Planned to learn:
   - :watermelon: Bayesian Statistics
 <!-- - Living with my Beagle dog :dog2:!
