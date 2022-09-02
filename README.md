@@ -4,6 +4,8 @@
 
 ![Jianting's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiantingFeng&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiantingFeng&layout=compact)](https://github.com/JiantingFeng/github-readme-stats)
+
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
 - :cn: I'm located in China right now!
 - :snake: A python enthusiast!
