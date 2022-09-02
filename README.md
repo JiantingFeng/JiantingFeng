@@ -1,5 +1,6 @@
 # Hi, there :wave:, [My Homepage](http://www.jiantingfeng.vip)
 ### :eyes: Actively looking for a MPhil/PhD position as well as open source contributor opportunity.
+![](https://komarev.com/ghpvc/?username=JiantingFeng&color=blueviolet)
 
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
 - :cn: I'm located in China right now!
