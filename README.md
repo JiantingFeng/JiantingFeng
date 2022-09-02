@@ -1,7 +1,8 @@
-## Hi, there :wave:
-###  [Homepage](http://www.jiantingfeng.vip)
+# Hi, there :wave:
+##  [Homepage](http://www.jiantingfeng.vip)
+### :eyes: Actively looking for a MPhil/PhD position as well as open source contributor opportunity.
+
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
-- :eyes: Actively looking for a MPhil/PhD position.
 - :cn: I'm located in China right now!
 - :snake: A python enthusiast!
 - :coffee: A part time brista: Ethiopia and Panama are the best choices!
