@@ -1,5 +1,4 @@
-# Hi, there :wave:
-##  [Homepage](http://www.jiantingfeng.vip)
+# Hi, there :wave:, [My Homepage](http://www.jiantingfeng.vip)
 ### :eyes: Actively looking for a MPhil/PhD position as well as open source contributor opportunity.
 
 - :telescope: This is Jianting Feng, you can call me Andy for short. 
