@@ -1,8 +1,8 @@
-# Hi, there :wave:, [My Homepage](http://www.jiantingfeng.vip)
+# Hi, there :wave:,
+### [My Homepage](http://www.jiantingfeng.vip)
 ### :eyes: Actively looking for a RA/MPhil/PhD position as well as open source contributor opportunity.
 ![](https://komarev.com/ghpvc/?username=JiantingFeng&color=blueviolet)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 
 <!-- ![Jianting's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiantingFeng&show_icons=true&theme=dracula) -->
 
@@ -24,3 +24,4 @@
 <!-- - Living with my Beagle dog :dog2:!
 - Dream to travel: :jp:, :us:, :uk: and :ca:
  -->
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
