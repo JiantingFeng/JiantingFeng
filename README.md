@@ -2,9 +2,9 @@
 ### :eyes: Actively looking for a RA/MPhil/PhD position as well as open source contributor opportunity.
 ![](https://komarev.com/ghpvc/?username=JiantingFeng&color=blueviolet)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 
-![Jianting's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiantingFeng&show_icons=true&theme=dracula)
+<!-- ![Jianting's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiantingFeng&show_icons=true&theme=dracula) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiantingFeng&layout=compact&hide=html,jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
  -->
