@@ -1,6 +1,6 @@
-# Hi, there :wave:,
+# :wave: Hi, there,
 ### [My Homepage](http://www.jiantingfeng.vip)
-### :eyes: Actively looking for a RA/MPhil/PhD position as well as open source contributor opportunity.
+### :eyes: 
 ![](https://komarev.com/ghpvc/?username=JiantingFeng&color=blueviolet)
 
 
@@ -17,11 +17,11 @@
   - :slot_machine: Machine Learning
   - :computer: Data Science
 - Currently:
-  - :seedling: Preparing for notes (will be posted later)
+  - :seedling: Applying for graduate school.
 <!--   - :bulb: Theoretical Machine Learning  -->
 - Planned to learn:
   - :watermelon: Bayesian Statistics
 <!-- - Living with my Beagle dog :dog2:!
 - Dream to travel: :jp:, :us:, :uk: and :ca:
  -->
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
