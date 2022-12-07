@@ -8,7 +8,6 @@
 </p>
 <p align="center">
   <samp>
-   <span> NeoVim </span> •
    <span> Machine Learning </span> •
    <span> Statistics </span> •
    <span> Python </span> •
@@ -16,4 +15,8 @@
    <span> Coffee </span> •
    <span> Gaming </span> 
   </samp>
+</p>
+
+<p align="center">
+ <img src="https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap" />
 </p>
