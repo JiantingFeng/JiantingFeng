@@ -17,6 +17,5 @@
   </samp>
 </p>
 
-<p align="center">
- <img src="https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap" />
-</p>
+![](https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap#gh-light-mode-only)
+![]([https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap#gh-light-mode-only](https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap&theme=dark#gh-dark-mode-only))
