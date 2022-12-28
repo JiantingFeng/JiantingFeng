@@ -21,9 +21,10 @@
 ![]([https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap#gh-light-mode-only](https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap&theme=dark#gh-dark-mode-only))
  -->
 
-### **Tested positive for COVID, good luck.**
+<!-- ### **Tested positive for COVID, good luck.**
 
 ### Education
 
 - 2023~2027(Expected), upcoming PhD student in Statistics, The Chinese University of Hong Kong
 - 2018-2022, BSc in Information and Computing Science, Beijing Institute of Technology
+ -->
