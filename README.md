@@ -7,6 +7,9 @@
  </samp>
 </p>
 
+### Current Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hagi73kurhgw7kr7tgyvicdhfq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=d375ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ### Research Interests
 
 - Interpretable Machine Learning
