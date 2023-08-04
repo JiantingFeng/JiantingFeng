@@ -13,7 +13,7 @@
 ### Research Interests
 
 - Interpretable Machine Learning
-- Statistical Learning Methods
+- Deep Learning Theory
 
 
 ### I ♥
@@ -33,8 +33,8 @@
 </p>
 
 ### Contact Me (Both 👌, but don't send twice)
+- [jiantingfeng@link.cuhk.edu.hk](mailto:jiantingfeng@link.cuhk.edu.hk)
 - [fengjianting@hotmail.com](mailto:fengjianting@hotmail.com)
-- [gianting01@gmail.com](mailto:gianting01@gmail.com)
 
 
 <!-- ![](https://leetcard.jacoblin.cool/gianting01?border=0&radius=20&ext=heatmap#gh-light-mode-only)
