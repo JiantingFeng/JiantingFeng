@@ -1,6 +1,6 @@
 <p align="left"> 
  <samp> 
-   <a href="jiantingfeng.github.io" display="inline-block"> me </a> »
+   <a href="https://jiantingfeng.github.io/" display="inline-block"> me </a> »
 <!--    <a href="http://blog.jiantingfeng.vip" display="inline-block"> blog </a> » -->
 <!--    <a href="https://github.com/JiantingFeng/dotfiles" display="inline-block"> dotfiles </a>
 <!--   <a href="https://github.com/JiantingFeng/scripts" display="inline-block"> scripts </a> -->
