@@ -7,16 +7,19 @@
  </samp>
 </p>
 
-### About Me
+### 🕵️‍♀️About Me
 My name is FENG Jianting, and I'm currently a PhD student at the Dept. of Statistics, The Chinese University of Hong Kong.
 
+### 💪Working on
 
-### Research Interests
+[DeepStat](https://github.com/JiantingFeng/deepstat): A Jax-based Python package to perform statistical inference on deep neural networks.
+
+### 🔍Research Interests
 - Interpretable Machine Learning
  - Model-agnostic Feature Importance Measure
 - High-dimensional Statistics
 
-### Current Listening
+### 🎶Current Listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hagi73kurhgw7kr7tgyvicdhfq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=d375ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
@@ -37,7 +40,7 @@ My name is FENG Jianting, and I'm currently a PhD student at the Dept. of Statis
   </samp>
 </p>
 
-### Contact Me (Both 👌, but don't send twice)
+### ✉️Contact Me (Both 👌, but don't send twice)
 - [jiantingfeng@link.cuhk.edu.hk](mailto:jiantingfeng@link.cuhk.edu.hk)
 - [fengjianting@hotmail.com](mailto:fengjianting@hotmail.com)
 
