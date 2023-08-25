@@ -12,7 +12,7 @@ My name is FENG Jianting, and I'm currently a PhD student at the Dept. of Statis
 
 ### 💪Working on
 
-[DeepStat](https://github.com/JiantingFeng/deepstat): A Jax-based Python package to perform statistical inference on deep neural networks.
+[DeepStat](https://github.com/JiantingFeng/deepstat): A Python package to perform statistical inference on deep neural networks.
 
 ### 🔍Research Interests
 - Interpretable Machine Learning
