@@ -10,9 +10,10 @@
 ### 🕵️‍♀️About Me
 My name is FENG Jianting, and I'm currently a PhD student at the Dept. of Statistics, The Chinese University of Hong Kong.
 
-### 💪Working on
+<!-- ### 💪Working on
 
 [DeepStat](https://github.com/JiantingFeng/deepstat): A Python package to perform statistical inference on deep neural networks.
+-->
 
 ### 🔍Research Interests
 - Interpretable Machine Learning
